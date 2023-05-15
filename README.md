@@ -1,6 +1,6 @@
 ## 🤚 Olá, tudo bem, meu nome é Paulo Roberto Lemos!
 
-Estou comesando na área de front-end, estou me especializando nas ferramentas utilizadas. Busco ter qualidade e legibilidade nos meus códigos.
+Estou começando na área de front-end, estou me especializando nas ferramentas utilizadas. Busco ter qualidade e legibilidade nos meus códigos.
 
 
 <div>
