@@ -14,8 +14,15 @@ Estou começando na área de front-end, estou me especializando nas ferramentas 
 <p align="center"><em>🎵 "Livin' life like a dream,
 Live it right that's the theme"</em>
 
+<div align="center">
+  <a href="https://github.com/PauloRobertoLemos">
+    <img height="48%" src="https://github-readme-stats.vercel.app/api?username=PauloRobertoLemos&count_private=true&include_all_commits=true&show_icons=true&theme=radical&hide_border=false&show_owner=true&layout=compact&locale=pt-br"/>
+    <img height="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PauloRobertoLemos&theme=radical&hide_border=false&show_owner=true&layout=compact&locale=pt-br"/>
+  </a>
+</div>
 
- <div>
+
+<div>
   </br>
   </br>
   <p align="center">
@@ -25,3 +32,11 @@ Live it right that's the theme"</em>
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
 </div>
+
+
+<div align="center">
+  
+  ![Snake animation](https://github.com/PauloRobertoLemos/PauloRobertoLemos/blob/output/github-contribution-grid-snake.svg)
+  
+</div>
+
