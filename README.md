@@ -15,10 +15,7 @@ Estou começando na área de Back-End, a cada dia que passa estou buscando novos
 Live it right that's the theme"</em>
 
 <div align="center">
-  <a href="https://github.com/PauloRobertoLemos">
-    <img height="48%" src="https://github-readme-stats.vercel.app/api?username=PauloRobertoLemos&count_private=true&include_all_commits=true&show_icons=true&theme=radical&hide_border=false&show_owner=true&layout=compact&locale=pt-br"/>
-    <img height="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PauloRobertoLemos&theme=radical&hide_border=false&show_owner=true&layout=compact&locale=pt-br"/>
-  </a>
+ 
 </div>
 
 
