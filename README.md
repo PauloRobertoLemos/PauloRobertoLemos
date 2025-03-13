@@ -1,6 +1,6 @@
 ## 🤚 Olá, tudo bem, meu nome é Paulo Roberto Lemos!
 
-Estou começando na área de Back-End, a cada dia que passa estou buscando novos conhecimentos tanto nas liguagens quanto nos frameworks. Busco ter uma boa qualidade e legibilidade na hora de fazer os códigos, sempre visando o entendimento e a clareza.
+Estou começando na área de Back-End, a cada dia que passa estou buscando novos conhecimentos tanto nas linguagens quanto nos frameworks. Busco ter uma boa qualidade e legibilidade na hora de fazer os códigos, sempre visando o entendimento e a clareza.
 
 
 <div>
